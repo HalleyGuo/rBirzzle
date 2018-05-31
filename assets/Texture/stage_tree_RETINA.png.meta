@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a60e00b3-daa4-4608-8977-afb9d9d9d3bd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "stage_tree_RETINA": {
+      "ver": "1.0.3",
+      "uuid": "8d594da8-25d6-4dcd-b332-ec60401fed86",
+      "rawTextureUuid": "a60e00b3-daa4-4608-8977-afb9d9d9d3bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 590,
+      "height": 882,
+      "rawWidth": 590,
+      "rawHeight": 882,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,8 @@
+[{"level":1,"score":10000,"linkTriggerTime":1.0,"itemsData":[[0,10],[1,20],[3,30],[4,40]],"lockProbability":0.2,"lockMaxNum":4,"firstFallTime":10,"secondFallTime":8,"levelScoreFator":1.4},
+{"level":2,"score":10000,"linkTriggerTime":1.0,"itemsData":[[0,10],[1,20],[3,30],[4,40]],"lockProbability":0.2,"lockMaxNum":4,"firstFallTime":10,"secondFallTime":8,"levelScoreFator":1},
+{"level":3,"score":10000,"linkTriggerTime":1.0,"itemsData":[[0,10],[1,20],[3,30],[4,40]],"lockProbability":0.2,"lockMaxNum":4,"firstFallTime":10,"secondFallTime":8,"levelScoreFator":1},
+{"level":4,"score":10000,"linkTriggerTime":1.0,"itemsData":[[0,10],[1,20],[3,30],[4,40]],"lockProbability":0.2,"lockMaxNum":4,"firstFallTime":10,"secondFallTime":8,"levelScoreFator":1},
+{"level":5,"score":10000,"linkTriggerTime":1.0,"itemsData":[[0,10],[1,20],[3,30],[4,40]],"lockProbability":0.2,"lockMaxNum":4,"firstFallTime":10,"secondFallTime":8,"levelScoreFator":1},
+{"level":6,"score":10000,"linkTriggerTime":1.0,"itemsData":[[0,10],[1,20],[3,30],[4,40]],"lockProbability":0.2,"lockMaxNum":4,"firstFallTime":10,"secondFallTime":8,"levelScoreFator":1},
+{"level":7,"score":10000,"linkTriggerTime":1.0,"itemsData":[[0,10],[1,20],[3,30],[4,40]],"lockProbability":0.2,"lockMaxNum":4,"firstFallTime":10,"secondFallTime":8,"levelScoreFator":1}
+]

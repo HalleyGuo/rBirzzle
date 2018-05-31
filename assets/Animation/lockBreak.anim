@@ -1,0 +1,159 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lockBreak",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "lock_02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -17,
+                17
+              ],
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -106,
+                107
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                -258,
+                -762
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 116
+            }
+          ]
+        }
+      },
+      "lock_03": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                17,
+                19
+              ],
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                101,
+                103
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                273,
+                -770
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 14
+            }
+          ]
+        }
+      },
+      "lock_04": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -18,
+                -18
+              ],
+              "curve": "linear"
+            },
+            {
+              "frame": 1,
+              "value": [
+                -23,
+                -1006
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 180
+            }
+          ]
+        }
+      },
+      "lock_05": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                15,
+                -16
+              ],
+              "curve": "quadIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                28,
+                -1009
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -177
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
