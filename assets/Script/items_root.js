@@ -1280,7 +1280,6 @@ cc.Class({
                     self.elimateFallingItemList(elimateItemList);
                 })))
                 break;
-                
             }
         }
     },
