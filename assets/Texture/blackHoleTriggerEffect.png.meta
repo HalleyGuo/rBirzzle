@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "ebf8427f-63a3-41b8-a11d-e62883256275",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "blackHoleTriggerEffect": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "df152653-403c-47a2-b27f-35153b078a0c",
       "rawTextureUuid": "ebf8427f-63a3-41b8-a11d-e62883256275",
       "trimType": "auto",

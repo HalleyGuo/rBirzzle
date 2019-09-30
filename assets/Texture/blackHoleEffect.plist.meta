@@ -9,7 +9,7 @@
   "type": "Texture Packer",
   "subMetas": {
     "blackhole01_01.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a22838a1-e6f2-4059-8f7a-3f54ee3abca5",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",
@@ -31,7 +31,7 @@
       "subMetas": {}
     },
     "blackhole02_02.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c83b8ee7-fa23-45f7-8a05-2c251707d8f3",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",
@@ -53,7 +53,7 @@
       "subMetas": {}
     },
     "blackhole03_03.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "948d1bb9-bda3-4374-9d5d-53143b6fd366",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",
@@ -75,7 +75,7 @@
       "subMetas": {}
     },
     "blackhole04_04.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3d3e6e31-cd55-4443-9392-17230590c7d2",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",
@@ -97,7 +97,7 @@
       "subMetas": {}
     },
     "blackhole05_05.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "95c9d735-3a83-4c25-950f-cbfc1ab0d1a6",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",
@@ -119,7 +119,7 @@
       "subMetas": {}
     },
     "blackhole06_06.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "ddeff570-5236-4318-8cc1-82b61c9abd7f",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",
@@ -141,7 +141,7 @@
       "subMetas": {}
     },
     "blackhole07_07.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f6180219-387e-4952-9ed0-b1b155b3432f",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",
@@ -163,7 +163,7 @@
       "subMetas": {}
     },
     "blackhole08_08.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "babd0b08-fee2-4d32-95b2-e6e876672cba",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",
@@ -185,7 +185,7 @@
       "subMetas": {}
     },
     "blackhole09_09.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "acd229e1-e912-48da-a63d-ccf3872adb5e",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",
@@ -207,7 +207,7 @@
       "subMetas": {}
     },
     "blackhole10_10.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "727091ce-8bce-4237-9215-7fba31edfd04",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",
@@ -229,7 +229,7 @@
       "subMetas": {}
     },
     "blackhole11_11.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "cdea0e93-3e34-4439-a0b0-665a860be85c",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",
@@ -251,7 +251,7 @@
       "subMetas": {}
     },
     "blackhole12_12.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "68b708b1-0895-4ecc-86d5-e4a6dfa14827",
       "rawTextureUuid": "1f707120-28f5-41e3-b92a-cb8b3012b0b2",
       "trimType": "auto",

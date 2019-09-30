@@ -9,7 +9,7 @@
   "type": "Texture Packer",
   "subMetas": {
     "firebird01_01.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7eeed082-e51d-4fe7-8354-7ae8fcc8d03a",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",
@@ -31,7 +31,7 @@
       "subMetas": {}
     },
     "firebird02_02.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "24fb0386-2d8a-4354-86a5-4fed60d2220c",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",
@@ -53,7 +53,7 @@
       "subMetas": {}
     },
     "firebird03_03.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6760237b-1882-4fa8-9a5a-2da4c923e1c9",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",
@@ -75,7 +75,7 @@
       "subMetas": {}
     },
     "firebird04_04.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "2a2e547b-eb63-446a-b12c-f6942da49009",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",
@@ -97,7 +97,7 @@
       "subMetas": {}
     },
     "firebird05_05.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8de3b9c1-c6a5-440b-ae19-462af88b4cd5",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",
@@ -119,7 +119,7 @@
       "subMetas": {}
     },
     "firebird06_06.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a2571fb7-9915-476c-a7a2-c6fd5195ff90",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",
@@ -141,7 +141,7 @@
       "subMetas": {}
     },
     "firebird07_07.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6fe6656c-a818-4b8c-aeee-b8c75c5263cd",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",
@@ -163,7 +163,7 @@
       "subMetas": {}
     },
     "firebird08_08.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0e3e104e-c52b-4cfa-8b91-d4f58ef1582d",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",
@@ -185,7 +185,7 @@
       "subMetas": {}
     },
     "firebird09_09.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f1e2ba2b-829f-42f6-a1af-0bdb90b3430d",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",
@@ -207,7 +207,7 @@
       "subMetas": {}
     },
     "firebird10_10.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "bda9b19b-c94d-4c63-a18b-8902527371c2",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",
@@ -229,7 +229,7 @@
       "subMetas": {}
     },
     "firebird11_11.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6f29ccb2-9267-461c-8a68-6ceb0c11a36c",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",
@@ -251,7 +251,7 @@
       "subMetas": {}
     },
     "firebird12_12.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b419487b-639d-4ce2-8ee4-8d1e1a2ab94c",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",

@@ -1,37 +1,39 @@
 /**
  * 自定义抖动动作
  */
-var CircleMoveAction = cc.ActionInterval.extend({
-    //圆心位置
-    centerPos: cc.p(0, 0),
-    //运动缩放
-    scaleDiff:0,
-    //当前运动缩放
-    currentScale:0,
-    //抖动时间
-    duration:0,
-    deltTime: 0,
-    //角度
-    angle: 0,
-    anglePreFrame: 0,
-    frameCnts: 0,
-    ctor:function(duration,center,scale, angle){
-        cc.ActionInterval.prototype.ctor.call(this);
+var CircleMoveAction = cc.Class({
+    extends: cc.ActionInterval,
+    properties: {
+        //圆心位置
+        centerPos: cc.v2(0, 0),
+        //运动缩放
+        scaleDiff: 0,
+        //当前运动缩放
+        currentScale: 0,
+        //抖动时间
+        duration: 0,
+        deltTime: 0,
+        //角度
+        angle: 0,
+        anglePreFrame: 0,
+        frameCnts: 0,
+    },
+    ctor: function (duration, center, scale, angle) {
+        //cc.ActionInterval.prototype.ctor.call(this);
         this.duration = duration;
         this.initWithDuration(duration, center, scale, angle);
-
     },
-    update:function(dt){
+    update: function (dt) {
         this.frameCnts++;
         this.currentScale += this.scaleDiff;
 
         var newPos = cc.pRotateByAngle(this.nodeInitialPos, this.centerPos, this.frameCnts * this.anglePreFrame);
-        var diff = cc.pSub(newPos, this.centerPos);
-        newPos = cc.pAdd(diff.mulSelf(this.currentScale), this.centerPos);
+        var diff = newPos.sub(this.centerPos);
+        newPos = diff.mulSelf(this.currentScale).add(this.centerPos);
 
-       this.target.setPosition(newPos);
+        this.target.setPosition(newPos);
     },
-    initWithDuration:function(duration, center, scale, angle){
+    initWithDuration: function (duration, center, scale, angle) {
         if (cc.ActionInterval.prototype.initWithDuration.call(this, duration)) {
             this.centerPos = center;
             this.scaleDiff = scale;
@@ -44,11 +46,11 @@ var CircleMoveAction = cc.ActionInterval.extend({
         }
         return false;
     },
-    startWithTarget:function(target){
+    startWithTarget: function (target) {
         cc.ActionInterval.prototype.startWithTarget.call(this, target);
-        this.nodeInitialPos=target.getPosition();
+        this.nodeInitialPos = target.getPosition();
     },
-    stop:function(){
+    stop: function () {
         this.target.setPosition(this.nodeInitialPos);
     }
 });
@@ -60,6 +62,6 @@ var CircleMoveAction = cc.ActionInterval.extend({
  * @param {number}angle 运动角度
  * @returns {Shake}
  */
-cc.circleMoveAction = function(duration, center, scale, angle){
+cc.circleMoveAction = function (duration, center, scale, angle) {
     return new CircleMoveAction(duration, center, scale, angle);
 };

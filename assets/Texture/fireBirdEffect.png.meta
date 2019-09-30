@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "fireBirdEffect": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "2982dca7-5c5a-459d-b0da-6ce0db79c12a",
       "rawTextureUuid": "a16f6ebf-e569-4d0d-8cc9-4b516463bdfd",
       "trimType": "auto",

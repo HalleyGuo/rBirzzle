@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "f8dcb47d-56a3-4af0-82ab-0c70a3d14dff",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "stage_bg_RETINA": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "ade3eb86-81c1-4225-8b62-e644efeb849a",
       "rawTextureUuid": "f8dcb47d-56a3-4af0-82ab-0c70a3d14dff",
       "trimType": "auto",
