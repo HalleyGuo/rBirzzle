@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "09f6ff9a-83e1-420f-a95b-dcf3c6c2aa7c",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "lightning_A": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "1ec0dfca-15ed-4f85-9975-bcbf31c545c1",
       "rawTextureUuid": "09f6ff9a-83e1-420f-a95b-dcf3c6c2aa7c",
       "trimType": "auto",

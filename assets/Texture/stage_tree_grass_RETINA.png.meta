@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "d7bc8013-f352-495e-81d2-34cf6987dcd5",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "stage_tree_grass_RETINA": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "2415c99c-8ce7-482d-9b61-8735aa0781f6",
       "rawTextureUuid": "d7bc8013-f352-495e-81d2-34cf6987dcd5",
       "trimType": "auto",
